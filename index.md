@@ -1,9 +1,9 @@
 ## OptimChain
 
-OptimChain is when Optimization and Supply Chain meets Technology. Let us build end to end solutions for you with with analytics that is based in theory. 
+OptimChain is when optimization and supply chain meets technology. Let us build end to end solutions for you with theory based analytics. 
 ### Markdown
 
-Most Analytics Solutions have the following issues:
+Below is our list of projects:
 
 ```markdown
 Syntax highlighted code block
