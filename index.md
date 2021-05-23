@@ -4,8 +4,8 @@ OptimChain is when optimization and supply chain meets technology. Let us build 
 
 See our list of projects below:
 
-1. QR_ERP-Automated Cloud Based Inventory Control
-2. Cloud Hydroponics-Cloud Based Hydroponics sensoring
+QR_ERP-Automated Cloud Based Inventory Control
+Cloud Hydroponics-Cloud Based Hydroponics sensoring
 
 
 &nbsp;
