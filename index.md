@@ -2,7 +2,7 @@
 
 OptimChain is when optimization and supply chain meets technology. Let us build end to end solutions for you with theory based analytics. 
 
-Click below for our list of projects:
+See our list of projects below:
 
 1. QR_ERP-Automated Cloud Based Inventory Control
 
