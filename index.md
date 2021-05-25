@@ -3,11 +3,11 @@
 
 OptimChain is when optimization and supply chain meets technology. Let us build end to end solutions for you with theory based analytics. We create proof-of-concept custom time-series analytics, web scraping, BI, and factory floor level integration within an industrial engineering context. 
 
-        Languages: Python, R, Javascript, SQL
-        Optimzation: Promodel, python LP, Excel solver, R scripting
-        Visualization: Flask, Shiny, PowerBi
-        Integration: Selenium, Beautiful Soup, Azure Connectors
-        Storage: Azure, Azure datalake and blob storage, SQL server
+* Languages: Python, R, Javascript, SQL
+* Optimzation: Promodel, python LP, Excel solver, R scripting
+* Visualization: Flask, Shiny, PowerBi
+* Integration: Selenium, Beautiful Soup, Azure Connectors
+* Storage: Azure, Azure datalake and blob storage, SQL server
 
 See our list of projects below:
 
