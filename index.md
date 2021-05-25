@@ -8,7 +8,7 @@ See our list of projects below:
 
 QR_ERP-Automated Cloud Based Inventory Control            |  Cloud Hydroponics-Cloud Based Hydroponics sensoring
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/84352976/119550457-49030c00-bd4d-11eb-992b-39cca3b2ae58.png)
+![](https://user-images.githubusercontent.com/84352976/119550714-967f7900-bd4d-11eb-8aa4-37b712c0ee00.png)
 
 
   |  ![](https://user-images.githubusercontent.com/84352976/119550570-6cc65200-bd4d-11eb-9bd8-9752081aedf1.png)
