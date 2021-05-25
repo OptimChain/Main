@@ -1,5 +1,8 @@
 ## OptimChain
 
+![image](https://user-images.githubusercontent.com/84352976/119548089-b5c8d700-bd4a-11eb-902a-886bd1ead34f.png)
+
+
 OptimChain is when optimization and supply chain meets technology. Let us build end to end solutions for you with theory based analytics. 
 
 See our list of projects below:
