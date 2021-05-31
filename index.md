@@ -22,9 +22,11 @@ In the current Hydroponics Industry, sensors are used to monitor greenhouse floo
 
 ![image](https://user-images.githubusercontent.com/84352976/120245020-c1237300-c220-11eb-94d0-43f84024ad7a.png)
 
+[QR_ERP-Automated Cloud Based Inventory Control](https://github.com/OptimChain/QR_ERP)
+
 QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone!
 
-[QR_ERP-Automated Cloud Based Inventory Control](https://github.com/OptimChain/QR_ERP)
+
 
 
   
