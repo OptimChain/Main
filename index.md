@@ -15,7 +15,7 @@ OptimChain is when industrial engineering meets automation technology. Let us bu
 See our list of projects below:
 
 
-Cloud Based Hydroponics Sensoring            |  QR Based Inventory Control Automation
+
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/84352976/120244992-ad780c80-c220-11eb-8e4d-6885251db0f8.png)
  | ![image](https://user-images.githubusercontent.com/84352976/120245020-c1237300-c220-11eb-94d0-43f84024ad7a.png)
