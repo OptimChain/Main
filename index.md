@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/84352976/119548089-b5c8d700-bd4a-11eb-902a-886bd1ead34f.png)
 
 ####  What we are
-OptimChain is when optimization and supply chain meets technology. Let us build end to end solutions for you with theory based analytics. We create proof-of-concept custom time-series analytics, web scraping, BI, and factory floor level integration within an industrial engineering context. 
+OptimChain is when industrial engineering meets automation technology. Let us build end to end automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
 
 #### Custom End to End Tech stack
 * Languages: Python, R, Javascript, SQL
@@ -15,7 +15,7 @@ OptimChain is when optimization and supply chain meets technology. Let us build 
 See our list of projects below:
 
 
-Cloud Hydroponics-Cloud Based Hydroponics sensoring            |  QR_ERP-Automated Cloud Based Inventory Control
+Cloud Based Hydroponics Sensoring            |  QR Based Inventory Control Automation
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/84352976/120244992-ad780c80-c220-11eb-8e4d-6885251db0f8.png)
  | ![image](https://user-images.githubusercontent.com/84352976/120245020-c1237300-c220-11eb-94d0-43f84024ad7a.png)
