@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/84352976/119548089-b5c8d700-bd4a-11eb-902a-886bd1ead34f.png)
 
-####  What we are
+###  What we are
 OptimChain is when industrial engineering meets automation technology. Let us build end to end automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
 
-#### Custom End to End Tech stack
+### Custom End to End Tech stack
 * Languages: Python, R, Javascript, SQL
 * Optimzation: Promodel, python LP, Excel solver, R scripting
 * Visualization: Flask, Shiny, PowerBi
@@ -11,7 +11,7 @@ OptimChain is when industrial engineering meets automation technology. Let us bu
 * Storage: Azure, Azure datalake and blob storage, SQL server
 * IoT: Raspberry Pi, Azure sphere
 
-#### Projects
+### Projects
 ![image](https://user-images.githubusercontent.com/84352976/120245233-70f8e080-c221-11eb-8205-f71d6aabad39.png)
 
 [Cloud Hydroponics-Cloud Based Hydroponics sensoring](https://github.com/OptimChain/Cloud_Hydroponics)
@@ -28,13 +28,10 @@ QR ERP is a product demo for a cloud based QR scanning system. Small manufacturi
 
 
 
-### Partners
+### Solution Customers
 
-![image](https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png)
 
-![image](https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png)
-
-![image](https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png)
+![image](https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png) ![image](https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png) ![image](https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png)
 
 
 
