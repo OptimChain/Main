@@ -16,9 +16,10 @@ See our list of projects below:
 
 
 
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/84352976/120244992-ad780c80-c220-11eb-8e4d-6885251db0f8.png)
- | ![image](https://user-images.githubusercontent.com/84352976/120245020-c1237300-c220-11eb-94d0-43f84024ad7a.png)
+
+![image](https://user-images.githubusercontent.com/84352976/120245233-70f8e080-c221-11eb-8205-f71d6aabad39.png)
+
+![image](https://user-images.githubusercontent.com/84352976/120245020-c1237300-c220-11eb-94d0-43f84024ad7a.png)
 
 
 
