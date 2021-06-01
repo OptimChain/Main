@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84352976/120259921-b7facc00-c249-11eb-9932-c1c7cfc49bd8.png)
+![image](https://user-images.githubusercontent.com/84352976/120259921-b7facc00-c249-11eb-9932-c1c7cfc49bd8.png = 250x)
 
 
 ###  What we are
