@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84352976/120259921-b7facc00-c249-11eb-9932-c1c7cfc49bd8.png)
+![OptimChain](https://user-images.githubusercontent.com/84352976/120263156-fc896600-c24f-11eb-97d3-9687f0a3b173.PNG)
 
 
 ###  What we are
