@@ -38,8 +38,8 @@ QR ERP is a product demo for a cloud based QR scanning system. Small manufacturi
 
 #### Contact
 
-Email: cloud@optimchain.org
-Phone: 734-730-6569
+* Email: cloud@optimchain.org
+* Phone: 734-730-6569
 
 Optimchain LLC  All Rights Reserved
 
