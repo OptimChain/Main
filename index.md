@@ -24,7 +24,7 @@ In the current Hydroponics Industry, sensors are used to monitor floor level hyd
 
 &nbsp;
 
-#### [Modoular QR based Inventory Control (Click Here)](https://github.com/OptimChain/QR_ERP)
+#### [Modular QR based Inventory Control (Click Here)](https://github.com/OptimChain/QR_ERP)
 
 ![image](https://user-images.githubusercontent.com/84352976/120255432-c8f30f80-c240-11eb-8974-d60f14ae9f12.png)
 
