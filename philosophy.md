@@ -1,6 +1,5 @@
----
-layout: default
----
+Our Philiosophy is to:
 
-OptimChain Philiosphy 
-
+A
+B
+C
