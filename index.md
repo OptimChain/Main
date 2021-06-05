@@ -2,7 +2,7 @@
 
 
 ###  What We Are
-OptimChain is when industrial engineering meets automation technology. Let us build end to end automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
+OptimChain is when industrial engineering meets analytics and automation technology. Let us build end to end analytics and automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
 
 
 ### Custom End to End Tech stack
