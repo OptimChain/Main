@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/84352976/120905604-0ae8d080-c608-11eb-8345-9a7605fdd385.png)
 
-Jason used to work as a Project Manager at Microsoft with Azure Supply Chain Buffer Planning. He has experience in spatial data analysis from MCity autonomous driving projects and has operational experience from various industry supply chain projects at companies such as DTE Energy and Cummins. Jason has an B.S.E from the University of Michigan.
+Jason used to work as a Project Manager at Microsoft within Azure Supply Chain Buffer Planning. He has experience in spatial data analysis from MCity autonomous driving projects and operational experience from various industry supply chains (DTE Energy, Cummins). Jason has an B.S.E from the University of Michigan.
 
 https://www.linkedin.com/in/jason-bian-7b9027a5/
 
