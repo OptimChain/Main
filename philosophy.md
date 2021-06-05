@@ -1,1 +1,1 @@
-### Philisophy 
+### Philosophy
