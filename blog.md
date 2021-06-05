@@ -1,1 +1,1 @@
-[Duck Duck Go](https://github.com/OptimChain/Main/blob/gh-pages/Blog/Hydroponics%20Setup.md)
+### [Hydroponics_Sensoring Within Cannibus Industries](https://optimchain.github.io/Main/Blog/Hydroponics_Sensoring.html)
