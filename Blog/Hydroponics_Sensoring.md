@@ -1,9 +1,9 @@
-#### Hydroponic Sensoring within Cannibus Industries
+### Hydroponic Sensoring within Cannibus Industries
 
 As of 2021, cannabis is legal to grow within designated green zones or by med card holders in 18 states. Most growers start as local caregivers using basements, attics, and smaller rooms with custom air filters, ventilation systems, and humidity control. Many manual tasks are involved in nutrient mixing, pest control, potting and pruning. Deviations in atmospheric conditions as well as downtime of several components in smaller custom setups can cause significant damage to plant health. Here, we analyze three common systems used for small and mid-tier growers as they transition to additional sensoring automation due to labor demands. 
 
 
-#### Yolink
+### Yolink
 
 Often, local systems like Yolink are used with a subscription-based structure to control light and temperature sensors using local Wi-Fi networks.
 Figure 1: Yolink offerings at https://www.yosmart.com/
@@ -12,7 +12,7 @@ Figure 1: Yolink offerings at https://www.yosmart.com/
 A gas/water valve controller on amazon can go for $64.99 and there is a collection of 20 to 30 reasonably priced end to end sensor solutions. A prebuilt Yolink app is used to link all existing sensors and provide analytics. 
 Yolink sensors are generally home automation focused with smart-plugs, light and water management solutions as the focus for small grower integration. A system of Yolink smart-plugs can be used to configure on-off for humidity and light environments within the grow system. In-house dashboarding and analytics provide a live view and email alerts on certain thresholds, though actuation of sensors still needs to be manual within the Yolink system. There is no storage option for historical data and premium features will cost additional money within the app. 
 
-#### Mycodo
+### Mycodo
 
 Mycodo is a popular open-source framework featuring an app GPIO framework for hydroponic growing. 
 A quick scan of the mycodo software shows the following configurable IO options to enable both input and output of common grow conditions. The product is slick, providing rich dashboarding, customizable logic apps, and alerting features. (Figure 2)
@@ -31,7 +31,7 @@ Automatically regulate air vapor pressure deficit (VPD) with a humidifier and ex
 
 This is far more IO options than Yolink and the control mechanisms resemble that of SCADA systems for proper nutrient dosing.  Local and cloud-based app hosting allows access via phone through router port forwarding options and data can be written to local/cloud containers for access. However, there is no system to easily retrieve and visualize log data. The mycodo system is free and judging by GitHub forks there is large following with software regularly maintained by the owner and a team of contributors. 
 
-#### Azure IoT
+### Azure IoT
 
 An Azure IoT system (Figure 3) uses a combination of local Pi systems and cloud systems to provide cloud based sensoring, IO control, and dashboarding. The main difference between this solution and mycodo is the ability to access historical data for analysis and experimentation purposes. Azure systems also have more robust alerting on local downtimes as mycodo cannot send alerts on sensor downtime over cloud systems (think email and text SMS messages).
 
@@ -54,7 +54,7 @@ Local Paid systems such as Yolink are very fragmented and often require multiple
 Open source like mycodo is promising for creating floor level dashboards and app solutions to create SCADA like systems for overall management. The rich GPIO of SCADA like systems allows for dosing automation and feedback actuation to be implemented. However, there’s poor cloud integration and app hosting of SCADA systems does not allow clean integration with cloud services. 
 Full azure systems provide the best of both worlds, yet they are very custom and take time to build. Using azure, service level is backed by an 99.995% SLA for most logic apps and 99.9995% for storage access. This is a good choice as a cheap alternative to industrial sensoring for larger growers and smaller research labs seeking advanced analytics and research on crop conditions. The bulk of azure systems come in setup-cost and pay-as-you-go usage. 
 
-#### Contact
+### Contact
 
 OptimChain can help you configure either one of these three systems depending on automation familiarity, stability concerns, and existing infrastructure. Reach out to schedule a consultation!
 
