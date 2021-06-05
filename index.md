@@ -4,6 +4,8 @@
 ###  What we are
 OptimChain is when industrial engineering meets automation technology. Let us build end to end automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
 
+[About Us](philosophy.md)
+
 ### Custom End to End Tech stack
 * Languages: Python, R, Javascript, SQL
 * Optimzation: Promodel, python LP, Excel solver, R scripting
