@@ -20,7 +20,7 @@ OptimChain is when industrial engineering meets automation technology. Let us bu
 ![image](https://user-images.githubusercontent.com/84352976/120255471-e031fd00-c240-11eb-8cc5-5b027cc268c9.png)
 
 
-In the current Hydroponics Industry, sensors are used to monitor greenhouse floor hydraulic systems to monitor for both water and air deviations in atmospheric conditions. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
+In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
 
 &nbsp;
 
@@ -30,7 +30,6 @@ In the current Hydroponics Industry, sensors are used to monitor greenhouse floo
 
 
 QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone!
-
 
 
 ### Previous Customers
