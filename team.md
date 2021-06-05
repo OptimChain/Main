@@ -8,7 +8,7 @@ Jason used to work as a Project Manager at Microsoft within Azure Supply Chain B
 
 ### Oleksandr Umanets (Olsk), Quantitative Associate
 
-![image](https://user-images.githubusercontent.com/84352976/120905528-826a3000-c607-11eb-91e5-fc7518ce57e6.png)
+![image](https://user-images.githubusercontent.com/84352976/120905702-cad61d80-c608-11eb-84bf-b278f040022e.png)
 
 Oleksandr is currently enrolled at the University of Michigan Ross School of Business pursuing a BBA degree with emphases in Accounting and Finance. During his time at Ross, he has engaged mostly in Trading and Investment club activities. Olsk brings quantitative supply chain, strategy, programming, and analytics skillsets
 
