@@ -13,9 +13,9 @@ OptimChain is when industrial engineering meets automation technology. Let us bu
 * Storage: Azure, Azure datalake and blob storage, SQL server
 * IoT: Raspberry Pi, Azure sphere
 
-### Projects
+### Sample Implementations:
 
-#### [Cloud Hydroponics-Cloud Based Hydroponics sensoring](https://github.com/OptimChain/Cloud_Hydroponics)
+#### [Cloud Based Hydroponics Sensoring](https://github.com/OptimChain/Cloud_Hydroponics)
 
 ![image](https://user-images.githubusercontent.com/84352976/120255471-e031fd00-c240-11eb-8cc5-5b027cc268c9.png)
 
@@ -24,7 +24,7 @@ In the current Hydroponics Industry, sensors are used to monitor greenhouse floo
 
 &nbsp;
 
-#### [QR_ERP-Automated Cloud Based Inventory Control](https://github.com/OptimChain/QR_ERP)
+#### [Modoular QR based Inventory Control](https://github.com/OptimChain/QR_ERP)
 
 ![image](https://user-images.githubusercontent.com/84352976/120255432-c8f30f80-c240-11eb-8974-d60f14ae9f12.png)
 
@@ -37,13 +37,6 @@ QR ERP is a product demo for a cloud based QR scanning system. Small manufacturi
 
 
 ![image](https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png) ![image](https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png) ![image](https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png)
-
-
-
-### Contact
-
-* Email: cloud@optimchain.org
-* Phone: 734-730-6569
 
 
 
