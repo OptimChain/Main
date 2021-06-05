@@ -1,4 +1,4 @@
-#### Jason Bian, Founder
+### Jason Bian, Founder
 
 ![image](https://user-images.githubusercontent.com/84352976/120905604-0ae8d080-c608-11eb-8345-9a7605fdd385.png)
 
@@ -6,7 +6,7 @@ Jason used to work as a Project Manager at Microsoft within Azure Supply Chain B
 
 https://www.linkedin.com/in/jason-bian-7b9027a5/
 
-#### Oleksandr Umanets (Olsk), Quantitative Associate
+### Oleksandr Umanets (Olsk), Quantitative Associate
 
 ![image](https://user-images.githubusercontent.com/84352976/120905528-826a3000-c607-11eb-91e5-fc7518ce57e6.png)
 
