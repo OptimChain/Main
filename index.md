@@ -15,7 +15,7 @@ OptimChain is when industrial engineering meets analytics and automation technol
 
 ### Sample Implementations:
 
-#### [Cloud Based Hydroponics Sensoring](https://github.com/OptimChain/Cloud_Hydroponics)
+#### [Cloud Based Hydroponics Sensoring (Click Here)](https://github.com/OptimChain/Cloud_Hydroponics)
 
 ![image](https://user-images.githubusercontent.com/84352976/120255471-e031fd00-c240-11eb-8cc5-5b027cc268c9.png)
 
@@ -24,7 +24,7 @@ In the current Hydroponics Industry, sensors are used to monitor floor level hyd
 
 &nbsp;
 
-#### [Modoular QR based Inventory Control](https://github.com/OptimChain/QR_ERP)
+#### [Modoular QR based Inventory Control (Click Here)](https://github.com/OptimChain/QR_ERP)
 
 ![image](https://user-images.githubusercontent.com/84352976/120255432-c8f30f80-c240-11eb-8974-d60f14ae9f12.png)
 
