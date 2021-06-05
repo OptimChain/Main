@@ -1,7 +1,7 @@
 ![Logo Small](https://user-images.githubusercontent.com/84352976/120263189-0ad78200-c250-11eb-8738-e54b17b58394.png)
 
 
-###  What we are
+###  What We Are
 OptimChain is when industrial engineering meets automation technology. Let us build end to end automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
 
 
