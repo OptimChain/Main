@@ -2,18 +2,19 @@
 
 
 ###  What We Are
-OptimChain is when industrial engineering meets analytics and automation technology. Let us build end to end analytics and automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
+OptimChain is when industrial engineering meets analytics. Let us introduce your supply chain, manufacturing, and inventory problems to the cloud. We create proof-of-concept time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. Typically, a proof-of-concept demo is small and localized to a single application. This allows an organization to take their first step in cloud services and envision a strategy to expand cloud capabilities. 
 
 
 ### Custom End to End Tech stack
 * Languages: Python, R, Javascript, SQL
+* Data Engineering: Databricks, Azure Synapse, Azure Eventhub
 * Optimzation: Promodel, python LP, Excel solver, R scripting
 * Visualization: Flask, Shiny, PowerBi
 * Integration: Selenium, Beautiful Soup, Azure Connectors
 * Storage: Azure, Azure datalake and blob storage, SQL server
 * IoT: Raspberry Pi, Azure sphere
 
-### Sample Implementations:
+### Sample Demo Implementations with Code:
 
 #### [Cloud Based Hydroponics Sensoring (Click Here)](https://github.com/OptimChain/Cloud_Hydroponics)
 
