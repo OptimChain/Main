@@ -1,3 +1,17 @@
-### 6.5.2021: [Hydroponics Sensoring Within Cannibus Industries](https://optimchain.github.io/Main/Blog/Hydroponics_Sensoring.html)
+---
+layout: default
+title: Posts
+---
 
-### 7.2.2021: [Magento Cloud Integration via Azure](https://optimchain.github.io/Main/Blog/Magento_Azure.html)
+<ul class="posts-wrapper">
+   {% for post in site.posts %}
+   <li>
+      <h3><a href="{{post.url}}">{{post.title}}</a> </h3>
+   </li>
+   {% endfor %}
+</ul>
+
+   
+
+
+

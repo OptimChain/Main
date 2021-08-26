@@ -1759,3 +1759,11 @@ footer {
     bottom: 10px;
     padding-left: 50px;
 }
+.posts-wrapper {
+  margin:  0;
+  padding:  0;
+  list-style:  none;
+}
+.posts-wrapper li {
+  margin-bottom:  30px;
+}

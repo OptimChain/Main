@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Magento into Warehouse and PBI"
+---
 
 ### Magento into Warehouse and PBI
 

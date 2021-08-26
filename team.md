@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Jason Bian, Founder
 
 ![image](https://user-images.githubusercontent.com/84352976/120905604-0ae8d080-c608-11eb-8345-9a7605fdd385.png)

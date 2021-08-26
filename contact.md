@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ### Contact
 
 * Email: cloud@optimchain.org

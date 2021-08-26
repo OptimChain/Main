@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     {% seo %}
     <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -18,7 +18,11 @@
       <div class="site-header-wrap">
          <div class="site-header-inside">
             <div class="site-branding">
-               <p class="profile"><a aria-current="page" class="" href="/"><img src="assets/images/avatar_2.png" class="avatar" alt="Author Avatar"></a></p>
+               <p class="profile">
+                  <a aria-current="page" href="{{ site.url }}">
+                    <img src="{{ '/assets/images/avatar_2.png' | relative_url }}" class="avatar" alt="Author Avatar">
+                  </a>
+               </p>
                <div class="site-identity">
                   <h1 class="site-title"><a aria-current="page" class="" href="/">OptimChain</a></h1>
                   <p class="site-description">Your Partners in Cloud</p>
@@ -29,10 +33,10 @@
                <div class="site-nav-wrap">
                   <div class="site-nav-inside">
                      <ul class="menu">
-                        <li class="menu-item "><a href="https://optimchain.github.io/Main/">Main Page</a></li>
-                        <li class="menu-item "><a href="https://optimchain.github.io/Main/team.html">Team</a></li>
-                        <li class="menu-item "><a href="https://optimchain.github.io/Main/blog.html">Blog</a></li>
-                        <li class="menu-item "><a href="https://optimchain.github.io/Main/contact.html">Contact</a></li>
+                        <li class="menu-item "><a href="{{ site.url }}">Main Page</a></li>
+                        <li class="menu-item "><a href="{{ site.url }}/team.html">Team</a></li>
+                        <li class="menu-item "><a href="{{ site.url }}/blog.html">Blog</a></li>
+                        <li class="menu-item "><a href="{{ site.url }}/contact.html">Contact</a></li>
                         <li class="menu-item "><a href="https://github.com/OptimChain?tab=repositories">View On GitHub</a></li>
                      </ul>
 
@@ -66,7 +70,7 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-    <script src="/assets/js/jquery-3.6.0.min.js"></script>
-    <script src="/assets/js/custom.js"></script>
+    <script src="{{ '/assets/js/jquery-3.6.0.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
   </body>
 </html>

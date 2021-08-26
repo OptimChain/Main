@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 ### Magento into Warehouse and PBI
 
