@@ -22,26 +22,27 @@ CRM Enabled Analytics:
 
 CRM Model Advantages:
 
-High Churn Rates: Due to market maturity, small inconviences in price can cause customers to move carriers. CRM is in the frontline to understand customer interactions.
-
-Massive Data Collection: 
-
-Main product of customers is the call containing time-series stamps, source, destination, and network details. Status of network components are also available. 
+*  Churn Rates: Due to market maturity, small inconviences in price can cause customers to move carriers. CRM is in the frontline to understand customer interactions.
+* Massive Data Collection: 
+* Main product of customers is the call containing time-series stamps, source, destination, and network details. Status of network components are also available. 
 
 ### Types of Data:
 
-Call Details Data: 
+Call Details Data: Record of all calls through the provider
 
 Metrics:
-  Average Call Duration
-  % No-answer Calls
-  % Calls from/ to a different area code
-  % Weekday Calls (Monday- Friday)
-  % of Daytime Calls (9 am- 5 pm)
-  Average # Calls Received Per Day
-  Average # Calls Originated Per Day
-  # Unique Area Codes Called over certain
-Time period (P)
+ * Average Call Duration
+ * % No-answer Calls
+ * % Calls from/ to a different area code
+ * % Weekday Calls (Monday- Friday)
+ * % of Daytime Calls (9 am- 5 pm)
+ * Average # Calls Received Per Day
+ * Average # Calls Originated Per Day
+ * # Unique Area Codes Called over certain Time period (P)
+
+Texting Data:
+
+4G/5G Data:
 
 Network Data:
   Engineering data mainly used for network fault isolation
