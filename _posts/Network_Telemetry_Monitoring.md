@@ -54,12 +54,12 @@ Network Data:
 ### Types of Data (Customer Analytics):
 
 Customer Data (Typically same as credit reporting agencies):
-  Name, address
-  Service Plan
-  Contact Information
-  Credit Score
-  Income
-  Payment History
+  * Name, Address
+  * Service Plan
+  * Contact Information
+  * Credit Score
+  * Income
+  * Payment History
 
 Customer/Sales Interaction Datasets: 
   
