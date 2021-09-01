@@ -38,7 +38,7 @@ Metrics:
  * % of Daytime Calls (9 am- 5 pm)
  * Average # Calls Received Per Day
  * Average # Calls Originated Per Day
- * # Unique Area Codes Called over certain Time period (P)
+ * Unique Area Codes Called over certain Time period (P)
 
 Texting Data:
 
