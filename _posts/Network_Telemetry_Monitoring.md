@@ -55,29 +55,27 @@ Customer Data (Typically same as credit reporting agencies):
   Payment History
   
  
- Lit Review:
- | Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-|  Mining
+Name: Mining
 Profitability of
 Telecommunicatio
 n Customers
 Using K-Means
-Clustering  |  K-mean
+Clustering  
+
+Notes: K-mean
 clustering method
  to evaluate
 the customer
-profitability      |
+profitability   
 
-Case Study on
+Name: Case Study on
 Cluster Analysis
 of The Telecom
 Customers Based
-on Consumers‟
-Behavior[8]
+on Consumers
+Behavior
 
-Correlation analysis to customer segmentation (Kohonen clusters)
+Notes: Correlation analysis to customer segmentation (Kohonen clusters)
 
 
 
