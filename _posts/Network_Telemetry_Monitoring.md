@@ -29,7 +29,7 @@ CRM Model Advantages versus other operational model:
 * Massive Data Collection: 
 * Main product of customers is the call containing time-series stamps, source, destination, and network details. Status of network components are also available. 
 
-### Types of Data:
+### Types of Data (Operational):
 
 Call Details Data: Record of all calls through the provider
 
@@ -50,6 +50,9 @@ Texting Data:
 Network Data:
   Engineering data mainly used for network fault isolation
  
+  
+### Types of Data (Customer Analytics):
+
 Customer Data (Typically same as credit reporting agencies):
   Name, address
   Service Plan
@@ -57,10 +60,11 @@ Customer Data (Typically same as credit reporting agencies):
   Credit Score
   Income
   Payment History
-  
+
 Customer/Sales Interaction Datasets: 
   
- 
+### Papers (Technique) 
+
 Name: Mining
 Profitability of
 Telecommunicatio
@@ -82,6 +86,8 @@ on Consumers
 Behavior
 
 Notes: Correlation analysis to customer segmentation (Kohonen clusters)
+
+### Papers (Analytics) 
 
 
 
