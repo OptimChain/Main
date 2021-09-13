@@ -64,6 +64,7 @@ Chargepoint App Download:
 **Wifi**:
 
 1. The wifi is located in the pouch below the table. Wifi password is as follows:
+
                 UserName:
                 Password:
  
