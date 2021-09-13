@@ -23,9 +23,9 @@ Now that we know the power of CRM, we can break down CRM into:
 * Collaborative CRM: Communciation between different departments related to customer service. Goal is to simplify workflows to standardize customer interaction across departments. 
 * Analytical CRM: Understanding of the customer, the can include segmentation, profitability analysis, customer value, Personalization, and predictive modeling. 
 
-![image](https://user-images.githubusercontent.com/84352976/133139838-8adfcf1b-94d5-4e32-bbd1-a0021e64e8d8.png)
-
 On the Operational and Collaborative CRM side, we can build good datasets and proper processes to improve our analytics capabilities. The main modeling work typically lives in the Analytical CRM category. 
+
+![image](https://user-images.githubusercontent.com/84352976/133139838-8adfcf1b-94d5-4e32-bbd1-a0021e64e8d8.png)
 
 Analytical CRM tasks include:
 
