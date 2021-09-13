@@ -1,10 +1,10 @@
-#### Welcome to Hardy 
+## Welcome to Hardy 
 
 I hope you enjoy your stay as much as I did traveling in this vehicle! Below are instructions on operating the van.
 
 <img src="https://user-images.githubusercontent.com/84352976/133133284-8762067f-49d7-4286-a8b8-4905a778348c.png" alt="Hardy Van" width="500"/>
 
-**Hot Water**: To use hot water, turn on the hot water generater below the van as follows:
+**Hot Water**: To use hot water, turn on the hot water generater below the van as shown:
 
 1. Open the cabinent below the sink
 2. Plug in the hot water heater
@@ -19,7 +19,7 @@ There is a detachable hose in the sink. Push the faucet back for cold water and 
 The shower room can be found under the wooden countertop. To setup the shower:
 
 1. Lift up the wooden table top
-2. Remove the Toilet 
+2. Remove the toilet 
 3. Enclose the curtains around the space
 4. Attach the showerhead up top
 5. Turn hose to redirect the hot water into the shower (If hot water is setup)
@@ -31,19 +31,19 @@ The toilet is best for number 1 due to limited capacity.
 I do have a planet fitness black card membership that can be used as well for your travels. Rest stops and restaurants are also good options: 
 
 To log into planet fitness:
-Download: 
-Username:
-Password:
+1. Download: 
+2. Username:
+3. Password:
 
 **Electric Capacity**
 1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
 
-To monitor this: 
-* When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
-* Charging (App): There is a charging app with the following login and password:
+    1.1 To monitor this: 
+       When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
+       Charging (App): There is a charging app with the following login and password:
 
-Login:
-Pass
+            Login:
+            Pass
 
 2. The van can be charged at chargepoint stations with level 1 and level 2 chargers:
 
