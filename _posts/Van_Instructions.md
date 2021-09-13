@@ -49,3 +49,6 @@ Planet Fitness Membership
 **Max Fan**
 *
 *
+
+For any questions and assistance, feel free to text me at 7347306569 or within the app. 
+Additionally, if you run into trouble, we can setup a google meet at cloud@optimchain.org. 
