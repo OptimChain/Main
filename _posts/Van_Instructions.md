@@ -78,5 +78,8 @@ The Max Fan remote is located here near the bed:
 * Additionally, if you run into trouble and need trouble shooting, let's setup a google meet at cloud@optimchain.org. 
 
 
-Happy Travels! 
+## Happy Travels! 
+
+<img src="https://user-images.githubusercontent.com/84352976/133138035-001e798f-0edc-4b11-b087-4c40a9bfda9c.png" alt="Hardy Van" width="500"/>
+
 
