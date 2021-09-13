@@ -23,6 +23,8 @@ Now that we know the power of CRM, we can break down CRM into:
 * Collaborative CRM: Communciation between different departments related to customer service. Goal is to simplify workflows to standardize customer interaction across departments. 
 * Analytical CRM: Understanding of the customer, the can include segmentation, profitability analysis, customer value, Personalization, and predictive modeling. 
 
+![image](https://user-images.githubusercontent.com/84352976/133139838-8adfcf1b-94d5-4e32-bbd1-a0021e64e8d8.png)
+
 On the Operational and Collaborative CRM side, we can build good datasets and proper processes to improve our analytics capabilities. The main modeling work typically lives in the Analytical CRM category. 
 
 Analytical CRM tasks include:
@@ -35,7 +37,7 @@ Analytical CRM tasks include:
 
 To enable the above tasks, I propose the following set of metrics and datasets to build an CRM solution:
 
-### (Operational Metrics):
+### Operational Metrics:
 
 Call Details Data: Record of all calls through the provider
 
@@ -56,7 +58,7 @@ Texting Datasets
 Networking Datasets (Engineering data mainly used for network fault isolation)
  
   
-### (Customer Analytics Metrics):
+### Customer Analytics Metrics:
 
 Customer Data (Typically same as credit reporting agencies):
   * Name, Address
