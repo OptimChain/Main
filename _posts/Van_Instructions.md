@@ -64,17 +64,16 @@ Chargepoint App Download:
 **Wifi**:
 
 1. The wifi is located in the pouch below the table. Wifi password is as follows:
-  UserName:
-  Password:
+        UserName:
+        Password:
  
- To check coverage, use: 
+2. To check coverage, use the following app: 
 
 **Max Fan**
 
 The Max Fan remote is located here near the bed: 
 
 * For any questions and assistance, feel free to text me at 7347306569 or within the outdoorsy app. 
-
 * Additionally, if you run into trouble and need trouble shooting, let's setup a google meet at cloud@optimchain.org. 
 
 
