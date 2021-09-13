@@ -5,7 +5,10 @@ title: "CRM Metrics in Telecom (Summary Whitepaper)"
 
 ### Components of CRM
 
-Customer Relationship Management aims to get a single integrated view of customers. Implementation of CRM has the goal of achieving higher profits and sales via customer satisfaction/reduced buying and selling costs. 
+Customer Relationship Management aims to get a single integrated view of customers. Typically, implementation of CRM has the goal of achieving higher profits and sales via customer satisfaction/reduced buying and selling costs. 
+
+![image](https://user-images.githubusercontent.com/84352976/133138731-81777de7-d29f-492d-91a5-e6a8eb91c6fe.png)
+
 
 We can break down CRM into:
 
