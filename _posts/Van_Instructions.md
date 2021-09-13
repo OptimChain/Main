@@ -1,5 +1,5 @@
 #### Welcome to Hardy 
-![image](https://user-images.githubusercontent.com/84352976/133133284-8762067f-49d7-4286-a8b8-4905a778348c.png =250x)
+![](https://user-images.githubusercontent.com/84352976/133133284-8762067f-49d7-4286-a8b8-4905a778348c.png =250x)
 
 I hope you enjoy your stay as much as I did traveling in this vehicle! Below are instructions on operating the van.
 
