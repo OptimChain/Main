@@ -35,7 +35,7 @@ Analytical CRM tasks include:
 4. Customization: Customize products so customers are treated uniquely with all demands fulfilled.
 
 
-To enable the above tasks, I propose the following set of metrics and datasets to build an CRM solution:
+To enable the above tasks, I propose the following set of metrics, datasets and techniques to build an CRM solution:
 
 ### Operational Metrics:
 
@@ -73,27 +73,27 @@ Customer/Sales Interaction Datasets
 
 ### Papers (CRM Techniques) 
 
-Name: Mining
+**Name:** Mining
 Profitability of
 Telecommunicatio
 n Customers
 Using K-Means
 Clustering  
 
-Notes: K-mean
-clustering method
- to evaluate
-the customer
-profitability   
+ Notes: K-mean
+ clustering method
+  to evaluate
+ the customer
+ profitability   
 
-Name: Case Study on
+**Name:** Case Study on
 Cluster Analysis
 of The Telecom
 Customers Based
 on Consumers
 Behavior
 
-Notes: Correlation analysis to customer segmentation (Kohonen clusters)
+ Notes: Correlation analysis to customer segmentation (Kohonen clusters)
 
 
 
