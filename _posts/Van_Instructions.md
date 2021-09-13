@@ -38,28 +38,28 @@ To log into planet fitness:
 **Electric Capacity**
 1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
 
-    1.1 To monitor this: 
-       When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
-       Charging (App): There is a charging app with the following login and password:
+2. Monitoring: When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
+3. App Monitoring via inverter sensor: There is a charging app with the following login and password:
 
             Login:
             Pass
 
-2. The van can be charged at chargepoint stations with level 1 and level 2 chargers:
+4. The van can be charged at chargepoint stations with level 1 and level 2 chargers:
 
-Chargepoint App:
+Chargepoint App Download:
 
-3. Generator Charging: If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. To charge via generater:
+5. Generator Charging: If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging.
+
+    5.1. To charge via generater:
 
 
 **Water Capacity**
 1. The van has 20 gallons of total water tank capacity.
 2. Additionally, there is 20 gallons of gray water capacity. Avoid pouring heavy oils into the gray water tank.
 
-
 **Van Computer**
 
-1. The van monitors can be used to via laptop for work. Included are Hdmi cables to attach to the monitors.
+1. The van monitors can be used to via laptop for work. Included are two hdmi cables to attach to the monitors.
 
 **Wifi**:
 
@@ -73,5 +73,6 @@ Chargepoint App:
 
 The Max Fan remote is located here near the bed: 
 
-For any questions and assistance, feel free to text me at 7347306569 or within the app. 
-Additionally, if you run into trouble, let's setup a google meet at cloud@optimchain.org. 
+* For any questions and assistance, feel free to text me at 7347306569 or within the outdoorsy app. 
+
+* Additionally, if you run into trouble, let's setup a google meet at cloud@optimchain.org. 
