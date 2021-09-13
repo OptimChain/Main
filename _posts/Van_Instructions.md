@@ -9,9 +9,8 @@ I hope you enjoy your stay as much as I did traveling in this vehicle! Below are
 1. Open the cabinent below the sink
 2. Plug in the hot water heater
 3. Turn the dial to the very end
-
-This tank holds 4 gallons and takes approximately 15 minutes to heat up. 
-Please unplug the water heater after use to conserve electricity.
+    1. This tank holds 4 gallons and takes approximately 15 minutes to heat up. 
+    2. Please unplug the water heater after use to conserve electricity.
 
 **Water Faucet**:
 There is a detachable hose in the sink. Push the faucet back for cold water and push the facuet forward for hot water. 
@@ -24,8 +23,6 @@ The shower room can be found under the wooden countertop. To setup the shower:
 3. Enclose the curtains around the space
 4. Attach the showerhead up top
 5. Turn hose to redirect the hot water into the shower (If hot water is setup)
-
-Planet Fitness Membership:
 
 **Toilet** (#2 prefered):
 To use the toilet, open the cassete at the bottom on the toilet. 
