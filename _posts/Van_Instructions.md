@@ -75,4 +75,8 @@ The Max Fan remote is located here near the bed:
 
 * For any questions and assistance, feel free to text me at 7347306569 or within the outdoorsy app. 
 
-* Additionally, if you run into trouble, let's setup a google meet at cloud@optimchain.org. 
+* Additionally, if you run into trouble and need trouble shooting, let's setup a google meet at cloud@optimchain.org. 
+
+
+Happy Travels! 
+
