@@ -45,9 +45,10 @@ The toilet is best for number 1 due to limited capacity.
 I do have a planet fitness black card membership that can be used as well for your travels. Rest stops and restaurants are also good options: 
 
 To log into planet fitness:
-1. Download: 
-2. Username:
-3. Password:
+
+1. Download: https://www.planetfitness.com/mobileapp
+2. Username: [??]
+3. Password: [??]
 
 **Electric Capacity**
 1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
@@ -57,17 +58,17 @@ To log into planet fitness:
 <img src="https://user-images.githubusercontent.com/84352976/133344117-67281d3b-01e2-4eab-b407-18193d17ebee.png" alt="Hardy Van" width="400"/>
 
 
-4. App Monitoring via inverter sensor: There is a charging app with the following login and password:
+4. App Monitoring via inverter sensor: There is a charging app with the following login and password: https://play.google.com/store/apps/details?id=com.growatt.shinephones&hl=en_US&gl=US
 
-            Login:
-            Pass
+            Login: slenderman73
+            Pass: [??]
 
 4. The van can be charged at chargepoint stations with level 1 and level 2 chargers. The charging port is located below the side entrance door:
 
 <img src="https://user-images.githubusercontent.com/84352976/133343936-ab71539d-b4df-4130-be19-8d6fe6a112bc.png" alt="Hardy Van" width="400"/>
 
 
-Chargepoint App Download:
+Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
 
 5. Generator Charging: If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. Ideally, if the battery reaches 25.5, the generator should be used to charge until a power source is located.
 
@@ -78,12 +79,12 @@ Chargepoint App Download:
 
     5.2. There is a 120 connector on the bottom of the van:
 
-    <img src="https://user-images.githubusercontent.com/84352976/133343874-19b010fa-788f-4d44-8d3a-85fe95633571.png" alt="Hardy Van" width="400"/>
+<img src="https://user-images.githubusercontent.com/84352976/133343874-19b010fa-788f-4d44-8d3a-85fe95633571.png" alt="Hardy Van" width="400"/>
 
 
     5.3. Detach this and attach via power cords located in the back:
     
-    <img src="https://user-images.githubusercontent.com/84352976/133343908-2e8f712c-c835-4138-a156-c7890f0855b0.png" alt="Hardy Van" width="400"/>
+<img src="https://user-images.githubusercontent.com/84352976/133343908-2e8f712c-c835-4138-a156-c7890f0855b0.png" alt="Hardy Van" width="400"/>
 
 
 
