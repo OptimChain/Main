@@ -18,11 +18,13 @@ To use hot water, turn on the hot water generater below the van as shown:
     2. Please unplug the water heater after use to conserve electricity.
 
 **Water Faucet**:
+
 There is a detachable hose in the sink. Push the faucet back for cold water and push the facuet forward for hot water. 
 
 <img src="https://user-images.githubusercontent.com/84352976/133344611-583c84ce-f0bf-4148-af4c-64c83e35f33e.png" alt="Hardy Van" width="400"/>
 
 **Showers**:
+
 The shower room can be found under the wooden countertop. To setup the shower:
 
 <img src="https://user-images.githubusercontent.com/84352976/133344442-8a7c2a03-d554-42b3-a8ea-259264b52e1a.png" alt="Hardy Van" width="400"/>
@@ -38,6 +40,7 @@ The shower room can be found under the wooden countertop. To setup the shower:
 
 
 **Toilet**:
+
 To use the toilet, open the cassete at the bottom on the toilet. 
 The toilet is best for number 1 due to limited capacity. 
 
@@ -52,7 +55,8 @@ To log into planet fitness:
 2. Username: [??]
 3. Password: [??]
 
-**Electric Capacity**
+**Electric Capacity**:
+
 1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
 
 2. Monitoring: When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
@@ -72,7 +76,9 @@ To log into planet fitness:
 
 Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
 
-5. Generator Charging: If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. Ideally, if the battery reaches 25.5, the generator should be used to charge until a power source is located.
+**Generator Charging:** 
+
+If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. Ideally, if the battery reaches 25.5, the generator should be used to charge until a power source is located.
 
     5.1. To charge via generater, take the generator outside. The generater is located to the left of the sink cabinet:
 
@@ -90,11 +96,12 @@ Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
 
 
 
-**Water Capacity**
+**Water Capacity**:
+
 1. The van has 20 gallons of total water tank capacity.
 2. Additionally, there is 20 gallons of gray water capacity. Avoid pouring heavy oils into the gray water tank.
 
-**Van Computer**
+**Van Computer**:
 
 1. The van monitors can be used to via laptop for work. Included are two hdmi cables to attach to the monitors.
 
