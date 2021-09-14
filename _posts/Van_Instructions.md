@@ -4,7 +4,9 @@ I hope you enjoy your stay as much as I did traveling in this vehicle! Below are
 
 <img src="https://user-images.githubusercontent.com/84352976/133133284-8762067f-49d7-4286-a8b8-4905a778348c.png" alt="Hardy Van" width="500"/>
 
-**Hot Water**: To use hot water, turn on the hot water generater below the van as shown:
+**Hot Water**: 
+
+To use hot water, turn on the hot water generater below the van as shown:
 
 1. Open the cabinent below the sink
 2. Plug in the hot water heater
