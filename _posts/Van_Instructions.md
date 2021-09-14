@@ -66,8 +66,8 @@ To log into planet fitness:
 
 4. App Monitoring via inverter sensor: There is a charging app with the following login and password: https://play.google.com/store/apps/details?id=com.growatt.shinephones&hl=en_US&gl=US
 
-            Login: slenderman73
-            Pass: [??]
+       Login: slenderman73
+       Pass: [??]
 
 4. The van can be charged at chargepoint stations with level 1 and level 2 chargers. The charging port is located below the side entrance door:
 
@@ -109,8 +109,8 @@ If the battery dies, the generator can be used to jump start the van. THIS SHOUL
 
 1. The wifi is located in the pouch below the table. Wifi password is as follows:
 
-             UserName:
-             Password:
+        UserName:
+        Password:
  
 2. To check coverage, use the following app: 
 
