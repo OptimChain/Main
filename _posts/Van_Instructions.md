@@ -80,17 +80,15 @@ Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
 
 If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. Ideally, if the battery reaches 25.5, the generator should be used to charge until a power source is located.
 
-    5.1. To charge via generater, take the generator outside. The generater is located to the left of the sink cabinet:
+5.1. To charge via generater, take the generator outside. The generater is located to the left of the sink cabinet:
 
 <img src="https://user-images.githubusercontent.com/84352976/133343847-598f8b19-4609-4c4a-b720-c0688ce974fb.png" alt="Hardy Van" width="400"/>
 
-
-    5.2. There is a 120 connector on the bottom of the van:
+5.2. There is a 120 connector on the bottom of the van:
 
 <img src="https://user-images.githubusercontent.com/84352976/133343874-19b010fa-788f-4d44-8d3a-85fe95633571.png" alt="Hardy Van" width="400"/>
 
-
-    5.3. Detach this and attach via power cords located in the back:
+5.3. Detach this and attach via power cords located in the back:
     
 <img src="https://user-images.githubusercontent.com/84352976/133343908-2e8f712c-c835-4138-a156-c7890f0855b0.png" alt="Hardy Van" width="400"/>
 
