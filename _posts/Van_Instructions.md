@@ -35,7 +35,7 @@ The shower room can be found under the wooden countertop. To setup the shower:
 <img src="https://user-images.githubusercontent.com/84352976/133344514-c7e4e674-6f42-46a5-bb75-ebaf75872398.png" alt="Hardy Van" width="400"/>
 
 
-**Toilet** (#2 prefered):
+**Toilet**:
 To use the toilet, open the cassete at the bottom on the toilet. 
 The toilet is best for number 1 due to limited capacity. 
 
