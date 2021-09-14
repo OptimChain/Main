@@ -8,6 +8,9 @@ I hope you enjoy your stay as much as I did traveling in this vehicle! Below are
 
 1. Open the cabinent below the sink
 2. Plug in the hot water heater
+
+![image](https://user-images.githubusercontent.com/84352976/133344803-4ca433ca-33b6-4f0d-b865-c3a0d04b2e1e.png)
+
 3. Turn the dial to the very end
     1. This tank holds 4 gallons and takes approximately 15 minutes to heat up. 
     2. Please unplug the water heater after use to conserve electricity.
@@ -15,8 +18,13 @@ I hope you enjoy your stay as much as I did traveling in this vehicle! Below are
 **Water Faucet**:
 There is a detachable hose in the sink. Push the faucet back for cold water and push the facuet forward for hot water. 
 
+![image](https://user-images.githubusercontent.com/84352976/133344611-583c84ce-f0bf-4148-af4c-64c83e35f33e.png)
+
 **Showers**:
 The shower room can be found under the wooden countertop. To setup the shower:
+
+![image](https://user-images.githubusercontent.com/84352976/133344442-8a7c2a03-d554-42b3-a8ea-259264b52e1a.png)
+
 
 1. Lift up the wooden table top
 2. Remove the toilet 
@@ -24,9 +32,15 @@ The shower room can be found under the wooden countertop. To setup the shower:
 4. Attach the showerhead up top
 5. Turn hose to redirect the hot water into the shower (If hot water is setup)
 
+![image](https://user-images.githubusercontent.com/84352976/133344514-c7e4e674-6f42-46a5-bb75-ebaf75872398.png)
+
+
 **Toilet** (#2 prefered):
 To use the toilet, open the cassete at the bottom on the toilet. 
 The toilet is best for number 1 due to limited capacity. 
+
+![image](https://user-images.githubusercontent.com/84352976/133344248-00d18933-0362-4147-8309-a2387911a75b.png)
+
 
 I do have a planet fitness black card membership that can be used as well for your travels. Rest stops and restaurants are also good options: 
 
@@ -39,18 +53,35 @@ To log into planet fitness:
 1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
 
 2. Monitoring: When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
-3. App Monitoring via inverter sensor: There is a charging app with the following login and password:
+
+![image](https://user-images.githubusercontent.com/84352976/133344117-67281d3b-01e2-4eab-b407-18193d17ebee.png)
+
+
+4. App Monitoring via inverter sensor: There is a charging app with the following login and password:
 
             Login:
             Pass
 
-4. The van can be charged at chargepoint stations with level 1 and level 2 chargers:
+4. The van can be charged at chargepoint stations with level 1 and level 2 chargers. The charging port is located below the side entrance door:
+
+![image](https://user-images.githubusercontent.com/84352976/133343936-ab71539d-b4df-4130-be19-8d6fe6a112bc.png)
+
 
 Chargepoint App Download:
 
-5. Generator Charging: If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging.
+5. Generator Charging: If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. Ideally, if the battery reaches 25.5, the generator should be used to charge until a power source is located.
 
-    5.1. To charge via generater:
+    5.1. To charge via generater, take the generator outside. The generater is located to the left of the sink cabinet:
+![image](https://user-images.githubusercontent.com/84352976/133343847-598f8b19-4609-4c4a-b720-c0688ce974fb.png)
+
+
+    5.2. There is a 120 connector on the bottom of the van:
+    ![image](https://user-images.githubusercontent.com/84352976/133343874-19b010fa-788f-4d44-8d3a-85fe95633571.png)
+
+
+    5.3. Detach this and attach via power cords located in the back:
+    ![image](https://user-images.githubusercontent.com/84352976/133343908-2e8f712c-c835-4138-a156-c7890f0855b0.png)
+
 
 
 **Water Capacity**
@@ -76,6 +107,13 @@ The Max Fan remote is located here near the bed:
 
 * For any questions and assistance, feel free to text me at 7347306569 or within the outdoorsy app. 
 * Additionally, if you run into trouble and need live troubleshooting, let's setup a google meet at cloud@optimchain.org. 
+
+**Fridge**
+
+Make sure to keep the screw on top of the fridge pushed in during traveling:
+![image](https://user-images.githubusercontent.com/84352976/133343821-327b9aa9-c890-4554-8161-94a2ce437b87.png)
+
+
 
 
 ## Happy Travels! 
