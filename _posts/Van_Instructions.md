@@ -52,8 +52,8 @@ I do have a planet fitness black card membership that can be used as well for yo
 To log into planet fitness:
 
 1. Download: https://www.planetfitness.com/mobileapp
-2. Username: jasonzb@umich.edu
-3. Password: Element11573!
+       Username: jasonzb@umich.edu
+       Password: Element11573!
 
 **Electric Capacity**:
 
