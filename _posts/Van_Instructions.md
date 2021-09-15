@@ -64,7 +64,7 @@ To log into planet fitness:
 <img src="https://user-images.githubusercontent.com/84352976/133344117-67281d3b-01e2-4eab-b407-18193d17ebee.png" alt="Hardy Van" width="400"/>
 
 
-4. App Monitoring via inverter sensor: There is a charging app with the following login and password: https://play.google.com/store/apps/details?id=com.growatt.shinephones&hl=en_US&gl=US
+3. App Monitoring via inverter sensor: There is a charging app with the following login and password: https://play.google.com/store/apps/details?id=com.growatt.shinephones&hl=en_US&gl=US
 
        Login: slenderman73
        Pass: Element11573fixed!
@@ -107,8 +107,8 @@ If the battery dies, the generator can be used to jump start the van. THIS SHOUL
 
 1. The wifi is located in the pouch below the table. Wifi password is as follows:
 
-        UserName:
-        Password:
+        UserName: Verizon-M2100-5A80
+        Password: 2ea17dda
  
 2. To check coverage, use the following app: 
 
