@@ -52,8 +52,8 @@ I do have a planet fitness black card membership that can be used as well for yo
 To log into planet fitness:
 
 1. Download: https://www.planetfitness.com/mobileapp
-2. Username: [??]
-3. Password: [??]
+2. Username: jasonzb@umich.edu
+3. Password: Element11573!
 
 **Electric Capacity**:
 
@@ -67,7 +67,7 @@ To log into planet fitness:
 4. App Monitoring via inverter sensor: There is a charging app with the following login and password: https://play.google.com/store/apps/details?id=com.growatt.shinephones&hl=en_US&gl=US
 
        Login: slenderman73
-       Pass: [??]
+       Pass: Element11573fixed!
 
 4. The van can be charged at chargepoint stations with level 1 and level 2 chargers. The charging port is located below the side entrance door:
 
