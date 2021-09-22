@@ -4,7 +4,7 @@ layout: default
 
 ### Jason Bian, Founder
 
-<img src="https://user-images.githubusercontent.com/84352976/120905604-0ae8d080-c608-11eb-8345-9a7605fdd385.png" alt="logo" width="300"/>
+<img src="https://user-images.githubusercontent.com/84352976/134434496-6da19914-3b9d-45a6-87e4-23043bc8805f.png" alt="logo" width="300"/>
 
 Jason used to work as a Project Manager at Microsoft within Azure Supply Chain Buffer Planning. He has experience in spatial data analysis from MCity autonomous driving projects and operational experience from various industry supply chains (DTE Energy, Cummins). Jason has an B.S.E from the University of Michigan.
 
