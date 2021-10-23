@@ -12,7 +12,9 @@ layout: default
 		 		<div class="team-member-info">
 		 			<h3> Jason Bian, Founder </h3>
 		 			<p>Jason used to work as a Project Manager at Microsoft within Azure Supply Chain Buffer Planning. He has experience in spatial data analysis from MCity autonomous driving projects and operational experience from various industry supply chains (DTE Energy, Cummins). Jason has an B.S.E from the University of Michigan. </p>
-		 			<a href="https://www.linkedin.com/in/jason-bian-7b9027a5/"> Linkedin </a>
+		 			<div class="social-links">
+		 			   <a href="https://www.linkedin.com/in/jason-bian-7b9027a5" target="_blank" rel="noopener"><span class="fab fa-linkedin" aria-hidden="true"></span><span class="screen-reader-text">LinkedIn</span></a>
+		 			</div>
 		 		</div>
 		 	</div>
 		 </div>
@@ -24,9 +26,13 @@ layout: default
 		 		<div class="team-member-info">
 		 			<h3> Oleksandr Umanets (Olsk), Quantitative Associate </h3>
 		 			<p>Oleksandr is currently enrolled at the University of Michigan Ross School of Business pursuing a BBA degree with emphases in Accounting and Finance. During his time at Ross, he has engaged mostly in Trading and Investment club activities. Olsk brings quantitative supply chain, strategy, programming, and analytics skillsets </p>
-		 			<a href="https://www.linkedin.com/in/oleksandr-umanets/">Linkedin</a>
+		 			<div class="social-links">
+		 			   <a href="https://www.linkedin.com/in/oleksandr-umanets/" target="_blank" rel="noopener"><span class="fab fa-linkedin" aria-hidden="true"></span><span class="screen-reader-text">LinkedIn</span></a>
+		 			</div>
 		 		</div>
 		 	</div>
 		 </div>
 	</div>
 </div>
+
+

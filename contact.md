@@ -23,14 +23,7 @@ layout: default
             </div>
             <div class="form-group">
                 <label for="subject">Subject</label>
-                <div class="form-select-wrap">
-                    <select id="subject" name="subject" aria-labelledby="subject-label">
-                        <option value="">Please select</option>
-                        <option value="Error on the site">Error on the site</option>
-                        <option value="Sponsorship">Sponsorship</option>
-                        <option value="Other">Other</option>
-                    </select>
-                </div>
+                <input type="text" name="subject" id="subject" placeholder="Your Subject" aria-labelledby="subject-label" />
             </div>
             <div class="form-group"><label for="message">Message</label><textarea name="message" id="message" rows="7" placeholder="Your message" aria-labelledby="message-label"></textarea>
             </div>
