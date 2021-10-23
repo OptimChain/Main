@@ -7,12 +7,12 @@ layout: default
     <div class="contact-info">
         <h1 class="post-title underline">Contact </h1>
         <ul>
-            <li><i class="fas fa-envelope"></i> Email: cloud@optimchain.org</li>
-            <li><i class="fas fa-phone-volume"></i> Phone: 734-730-6569</li>
+            <li><i class="fas fa-envelope"></i> Email: {{ site.contact_email }}</li>
+            <li><i class="fas fa-phone-volume"></i> Phone: {{ site.phone_number }}</li>
         </ul>
         <p>To get in touch please fill the form below.</p>
     </div>
-        <form name="contactForm" id="contactForm" action="https://formsubmit.io/send/cloud@optimchain.org">
+        <form name="contactForm" id="contactForm" action="https://formsubmit.io/send/{{site.contact_email}}">
             <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" name="name" id="name" placeholder="Your name" aria-labelledby="name-label" required=""/>

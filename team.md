@@ -2,37 +2,27 @@
 layout: default
 ---
 
+{% assign team_data = site.data.team_members %}
+
 <div class="container">
 	<div class="row">
+	   {% for team in team_data.members_info %}
 		 <div class="col-2">
 		 	<div class="single-team-member">
 		 		<div class="team-member-thumb">
-		 			<img src="https://user-images.githubusercontent.com/84352976/134434496-6da19914-3b9d-45a6-87e4-23043bc8805f.png" alt="Jason Bian" class="img-fluid" />
+		 			<img src="{{ team.member.profile_image }}" alt="{{ team.member.name }}" class="img-fluid" />
 		 		</div>
 		 		<div class="team-member-info">
-		 			<h3> Jason Bian, Founder </h3>
-		 			<p>Jason used to work as a Project Manager at Microsoft within Azure Supply Chain Buffer Planning. He has experience in spatial data analysis from MCity autonomous driving projects and operational experience from various industry supply chains (DTE Energy, Cummins). Jason has an B.S.E from the University of Michigan. </p>
+		 			<h3>{{ team.member.name }}</h3>
+		 			<p>{{team.member.description}}</p>
 		 			<div class="social-links">
-		 			   <a href="https://www.linkedin.com/in/jason-bian-7b9027a5" target="_blank" rel="noopener"><span class="fab fa-linkedin" aria-hidden="true"></span><span class="screen-reader-text">LinkedIn</span></a>
+                      {% for social in team.member.social_profiles %}
+		 			   <a href="{{social.url}}" target="_blank" rel="noopener"><span class="{{ social.icon }}" aria-hidden="true"></span><span class="screen-reader-text">{{ social.title }}</span></a>
+                      {% endfor %}
 		 			</div>
 		 		</div>
 		 	</div>
 		 </div>
-		 <div class="col-2">
-		 	<div class="single-team-member">
-		 		<div class="team-member-thumb">
-		 			<img src="https://user-images.githubusercontent.com/84352976/120905726-e93c1900-c608-11eb-9fb3-10df255441aa.png" alt="Oleksandr Umanets" class="img-fluid" />
-		 		</div>
-		 		<div class="team-member-info">
-		 			<h3> Oleksandr Umanets (Olsk), Quantitative Associate </h3>
-		 			<p>Oleksandr is currently enrolled at the University of Michigan Ross School of Business pursuing a BBA degree with emphases in Accounting and Finance. During his time at Ross, he has engaged mostly in Trading and Investment club activities. Olsk brings quantitative supply chain, strategy, programming, and analytics skillsets </p>
-		 			<div class="social-links">
-		 			   <a href="https://www.linkedin.com/in/oleksandr-umanets/" target="_blank" rel="noopener"><span class="fab fa-linkedin" aria-hidden="true"></span><span class="screen-reader-text">LinkedIn</span></a>
-		 			</div>
-		 		</div>
-		 	</div>
-		 </div>
+		 {% endfor %}
 	</div>
 </div>
-
-
