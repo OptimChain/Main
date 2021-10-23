@@ -2076,12 +2076,46 @@ our team page
   object-fit: cover;
   object-position: top;
 }
+@media only screen and (min-width: 1180px) {
+  .single-team-member .team-member-thumb img {
+    height: 300px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .single-team-member .team-member-thumb img {
+    height: 250px;
+  }
+  .row {
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .col-2 {
+    width: 95%;
+  }
+  .row {
+    flex-flow: column;
+  }
+  .single-team-member .team-member-thumb img {
+    height: 390px;
+  }
+}
+.team-member-info .social-links {
+  justify-content: left;
+}
+.team-member-info .social-links a {
+  border-color: #666;
+}
 .form-group {
   margin-bottom: 1.5em;
 }
 /***********************
 contact page
+
 ***********************/
+.contact-info {
+  /*padding-bottom:  30px;*/
+}
 .contact-info h1 {
   border-bottom: 0;
 }
