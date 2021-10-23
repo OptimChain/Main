@@ -2067,8 +2067,8 @@ our team page
   display: flex;
 }
 .col-2 {
-  width: 50%;
-  padding-right: 5%;
+  width: 46.5%;
+  padding-right: 4.5%;
 }
 .container .col-2:last-child {
   padding-right: 0;
