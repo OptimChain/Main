@@ -55,7 +55,7 @@ Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
         UserName: Verizon-M2100-5A80
         Password: 2ea17dda
  
-2. To check coverage, use the following app: 
+2. To check coverage, use the following app: https://www.verizon.com/coverage-map/
 
 **Max Fan**
 
