@@ -11,15 +11,6 @@ The toilet is best for number 1 due to limited capacity.
 
 <img src="https://user-images.githubusercontent.com/84352976/133344248-00d18933-0362-4147-8309-a2387911a75b.png" alt="Hardy Van" width="400"/>
 
-
-I do have a planet fitness black card membership that can be used as well for your travels. Rest stops and restaurants are also good options: 
-
-To log into planet fitness:
-
-1. Download: https://www.planetfitness.com/mobileapp
-       Username: jasonzb@umich.edu
-       Password: Element11573!
-
 **Electric Capacity**:
 
 1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
@@ -27,7 +18,6 @@ To log into planet fitness:
 2. Monitoring: When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
 
 <img src="https://user-images.githubusercontent.com/84352976/133344117-67281d3b-01e2-4eab-b407-18193d17ebee.png" alt="Hardy Van" width="400"/>
-
 
 3. App Monitoring via inverter sensor: There is a charging app with the following login and password: https://play.google.com/store/apps/details?id=com.growatt.shinephones&hl=en_US&gl=US
 
