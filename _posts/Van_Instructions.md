@@ -17,11 +17,11 @@ The toilet is best for number 1 due to limited capacity.
 
 2. Monitoring: When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
 
-3. Turning on and off: There is a small switch to the right of the inverter. Turning off the inverter removals all 120V power from the van and saves battery life.
+3. Turning on and off: There is a small switch to the bottom right of the inverter. Turning off the inverter removes all 120V power from the van and saves battery life.
 
 4. For cloudy days, below lists rules of thumb on keeping the battery charged:
 
-Inverter on usage pattern ( 4 to 5 days from full charge): Fridge + occasional microwave use + phone/laptop charging. Cooking at campgrounds from shore.
+Inverter on usage pattern ( 4 to 5 days from full charge): Fridge + occasional microwave use + phone/laptop charging. Cooking at campgrounds from shore power.
 Inverter off usage pattern (15 days from full charge): 2 hours of lights usage + maxfan + water pump
 Solar charging speed: 200 to 400 W per hour
 
