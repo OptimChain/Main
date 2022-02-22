@@ -103,7 +103,7 @@ The shower room can be found under the wooden countertop. To setup the shower:
 
 **Generator Charging:** 
 
-The generator can be used for emergencies to bring the power back on when the battery dies. THIS SHOULD BE AVOIDED as the inverter would die as well and prevent solar charging and a jump start process would need to be initiated
+The generator can be used for emergencies to bring the power back on when the battery dies. THIS SHOULD BE AVOIDED as the inverter would die as well and prevent solar charging. Additionally a jump start process would need to be initiated to allow for charging.
 
 5.1. To charge via generater, take the generator outside. The generater is located to the left of the sink cabinet:
 
