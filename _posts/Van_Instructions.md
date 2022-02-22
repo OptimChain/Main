@@ -59,10 +59,7 @@ Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
 
 **Max Fan**
 
-The Max Fan remote is located here near the bed: 
-
-* For any questions and assistance, feel free to text me at 7347306569 or within the outdoorsy app. 
-* Additionally, if you run into trouble and need live troubleshooting, let's setup a google meet at cloud@optimchain.org. 
+The Max Fan remote is located on the back right wall.
 
 **Fridge**
 
@@ -121,6 +118,7 @@ The generator can be used for emergencies to bring the power back on when the ba
 <img src="https://user-images.githubusercontent.com/84352976/133343908-2e8f712c-c835-4138-a156-c7890f0855b0.png" alt="Hardy Van" width="400"/>
 
 
+* For any questions and assistance, feel free to text me at 7347306569 or within the outdoorsy app. 
 
 ## Happy Travels! 
 
