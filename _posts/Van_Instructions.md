@@ -13,9 +13,17 @@ The toilet is best for number 1 due to limited capacity.
 
 **Electric Capacity**:
 
-1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge. 
+1. Capacity: Total Capacity of the van is 8.8 kwH. Given baseline consumption (Fridge, van, lights, inverter), solar is enough to sustain full charge on sunny days. 
 
 2. Monitoring: When the voltage reaches 25.5 on the inverter, the van has roughly 20% battery left and need to be charged.
+
+3. Turning on and off: There is a small switch to the right of the inverter. Turning off the inverter removals all 120V power from the van and saves battery life.
+
+4. For cloudy days, below lists rules of thumb on keeping the battery charged:
+
+Inverter on usage pattern ( 4 to 5 days from full charge): Fridge + occasional microwave use + phone/laptop charging. Cooking at campgrounds from shore.
+Inverter off usage pattern (15 days from full charge): 2 hours of lights usage + maxfan + water pump
+Solar charging speed: 200 to 400 W per hour
 
 <img src="https://user-images.githubusercontent.com/84352976/133344117-67281d3b-01e2-4eab-b407-18193d17ebee.png" alt="Hardy Van" width="400"/>
 
@@ -98,7 +106,7 @@ The shower room can be found under the wooden countertop. To setup the shower:
 
 **Generator Charging:** 
 
-If the battery dies, the generator can be used to jump start the van. THIS SHOULD BE AVOIDED as the inverted would die as well and prevent solar charging. Ideally, if the battery reaches 25.5, the generator should be used to charge until a power source is located.
+The generator can be used for emergencies to bring the power back on when the battery dies. THIS SHOULD BE AVOIDED as the inverter would die as well and prevent solar charging and a jump start process would need to be initiated
 
 5.1. To charge via generater, take the generator outside. The generater is located to the left of the sink cabinet:
 
