@@ -21,10 +21,13 @@ The toilet is best for number 1 due to limited capacity.
 
 4. For cloudy days, below lists rules of thumb on keeping the battery charged:
 
-Inverter on usage pattern ( 4 to 5 days from full charge): Fridge + occasional microwave use + phone/laptop charging. Cooking at campgrounds from shore power.
+Inverter on usage pattern ( 4 to 5 days from full charge): 
+       Fridge + occasional microwave use + phone/laptop charging. 
+       Cooking at campgrounds from shore power.
 
-Inverter off usage pattern (15 days from full charge): 2 hours of lights usage + maxfan + water pump
-Solar charging speed: 200 to 400 W per hour
+Inverter off usage pattern (15 days from full charge): 
+       2 hours of lights usage + maxfan + water pump
+       Solar charging speed: 200 to 400 W per hour
 
 <img src="https://user-images.githubusercontent.com/84352976/133344117-67281d3b-01e2-4eab-b407-18193d17ebee.png" alt="Hardy Van" width="400"/>
 
