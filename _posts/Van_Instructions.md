@@ -50,10 +50,10 @@ Chargepoint App Download: https://www.chargepoint.com/drivers/mobile/
 
 **Wifi**:
 
-1. The wifi is located in the pouch below the table. Wifi password is as follows:
+1. The wifi is located in the pouch below the table (Inseego MiFi M2100 5G UW). Wifi password is as follows:
 
         UserName: Verizon-M2100-5A80
-        Password: 2ea17dda
+        Password: ''
  
 2. To check coverage, use the following app: https://www.verizon.com/coverage-map/
 
