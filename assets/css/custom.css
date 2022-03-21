@@ -2028,8 +2028,14 @@ th {
   padding: 10px;
   background: #33383f;
   border: 0;
+}
+th a {
   color: #959ea9;
 }
+th a:hover {
+  color:#10bcf9;
+}
+
 td {
   padding: 10px;
 }
