@@ -2023,12 +2023,12 @@ table {
   text-align: left;
 }
 th {
-  font-family: "Arvo", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   padding: 10px;
-  background: #232323;
-  color: #fdfefb;
+  background: #33383f;
+  border: 0;
+  color: #959ea9;
 }
 td {
   padding: 10px;
