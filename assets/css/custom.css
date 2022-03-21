@@ -2030,6 +2030,9 @@ th {
   border: 0;
 }
 th a {
+  display: inline-block;
+  padding: 15px;
+  line-height: 1.75;
   color: #959ea9;
 }
 th a:hover {
