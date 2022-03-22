@@ -1,10 +1,10 @@
 ---
 layout: default
 logos:
-  - url: "/assets/images/logos/01.png"
-  - url: "/assets/images/logos/02.png"
-  - url: "/assets/images/logos/03.png"
-  - url: "/assets/images/logos/04.png"
+  - url: "assets/images/logos/01.png"
+  - url: "assets/images/logos/02.png"
+  - url: "assets/images/logos/03.png"
+  - url: "assets/images/logos/04.png"
 ---
 
 
