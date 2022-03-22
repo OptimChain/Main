@@ -2157,6 +2157,5 @@ contact page
 .gallery-wrapper img {
   margin-bottom: 0;
   max-height: 100px;
-  max-width: 250px;
-  object-fit: cover;
+  max-width: 280px;
 }
