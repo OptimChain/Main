@@ -2025,11 +2025,20 @@ table {
 th {
   font-size: 18px;
   font-weight: normal;
-  padding: 10px;
+  padding: 15px;
   background: #33383f;
   border: 0;
+}
+th a {
+  display: inline-block;
+  padding: 15px;
+  line-height: 1.75;
   color: #959ea9;
 }
+th a:hover {
+  color:#10bcf9;
+}
+
 td {
   padding: 10px;
 }
@@ -2140,4 +2149,7 @@ contact page
   font-size: 1.2rem;
   font-style: italic;
   padding-top: 10px;
+}
+.gallery-wrapper {
+  display: flex;
 }
