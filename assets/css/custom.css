@@ -2159,3 +2159,7 @@ contact page
   max-height: 100px;
   max-width: 280px;
 }
+.lab-img {
+  width: "300px";
+  height: "225px"
+}
