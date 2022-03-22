@@ -2152,4 +2152,11 @@ contact page
 }
 .gallery-wrapper {
   display: flex;
+  flex-wrap: wrap;
+}
+.gallery-wrapper img {
+  margin-bottom: 0;
+  max-height: 100px;
+  max-width: 250px;
+  object-fit: cover;
 }
