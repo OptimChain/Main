@@ -2052,7 +2052,7 @@ th a:hover {
 }
 .external-lists li {
   padding: 10px;
-  min-width: 340px;
+  max-width: 320px;
 }
 .external-lists li a {
   display: inline-block;
