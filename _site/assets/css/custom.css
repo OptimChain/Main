@@ -2039,6 +2039,8 @@ th a:hover {
   color:#10bcf9;
 }
 .external-lists {
+  display: flex;
+  flex-wrap: wrap;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -2048,9 +2050,12 @@ th a:hover {
   background: #33383f;
   border: 0;
 }
+.external-lists li {
+  padding: 10px;
+  min-width: 340px;
+}
 .external-lists li a {
   display: inline-block;
-  padding: 15px;
   line-height: 1.75;
   color: #959ea9;
 }
