@@ -27,9 +27,24 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
 
 ### Sample Demo Implementations with Code:
 
+<ul class="external-lists">
+  <li>
+    <a href="https://github.com/OptimChain/Cloud_Hydroponics">
+     Cloud Based Hydroponics Sensoring (Click Here)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/OptimChain/QR_ERP">
+     Modular QR based Inventory Control (Click Here)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/IamJasonBian/Demo_ML">
+     Databricks R and PowerBi Quota Ticket Forecasting (Click Here)
+    </a>
+  </li>
+</ul>
 
-| [Cloud Based Hydroponics Sensoring (Click Here)](https://github.com/OptimChain/Cloud_Hydroponics) | [Modular QR based Inventory Control (Click Here)](https://github.com/OptimChain/QR_ERP) |  [Databricks R and PowerBi Quota Ticket Forecasting (Click Here)](https://github.com/IamJasonBian/Demo_ML) |
-| --- | ----------- | ----------- |
 | <img class="lab-img"  src="{{ site.url }}/assets/images/labs/01.png" alt="logo" width="300"/>  | <img class="lab-img" src="{{ site.url }}/assets/images/labs/02.png" alt="logo"/> | <img class="lab-img" src="{{ site.url }}/assets/images/labs/03.png" alt="logo" />|
 | In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability. | QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone! | Statistical time-series forecast + classification done for a cilent with PowerBi front end code + R backend code in harmony with cloud orchestration services. Work was to triangulate manufacturing plans and orders for a major US manufacturer. Overall product allowed for demand shaping across seven cilent manufacturing sites.|
 

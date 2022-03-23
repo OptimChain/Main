@@ -2038,7 +2038,25 @@ th a {
 th a:hover {
   color:#10bcf9;
 }
-
+.external-lists {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 15px;
+  background: #33383f;
+  border: 0;
+}
+.external-lists li a {
+  display: inline-block;
+  padding: 15px;
+  line-height: 1.75;
+  color: #959ea9;
+}
+.external-lists li a:hover {
+  color:#10bcf9;
+}
 td {
   padding: 10px;
 }

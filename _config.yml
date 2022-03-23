@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://optimchain.github.io/Main" # 
 
-
 contact_email: "cloud@optimchain.org"
 phone_number: "734-730-6569"
 
