@@ -2192,6 +2192,17 @@ contact page
     max-height: 350px;
    }
  }
+ @media only screen and (min-width: 1350px) {
+  .lab-img {
+    max-height: 350px;
+    min-height: 225px;
+   }
+ }
+ @media only screen and (max-width: 1380px) {
+  .lab-img {
+    max-height: 350px;
+   }
+ }
 .cards-lists {
   display: flex;
   flex-wrap: wrap;
