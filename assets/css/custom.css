@@ -2185,8 +2185,13 @@ contact page
 }
 .lab-img {
   max-width: 100%;
-  height: 225px;
+  max-height: 225px;
 }
+@media only screen and (max-width: 659px) {
+  .lab-img {
+    max-height: 350px;
+   }
+ }
 .cards-lists {
   display: flex;
   flex-wrap: wrap;
@@ -2221,7 +2226,7 @@ contact page
 }
 @media only screen and (max-width: 659px) {
   .cards-lists .single-card {
-    max-width: 460px;
+    max-width: 360px;
   }
 }
 .cards-lists .single-card .card-body {
