@@ -2204,9 +2204,9 @@ contact page
     max-width: 300px;
   }
 }
-@media only screen and (max-width: 1350px) {
+@media only screen and (max-width: 1380px) {
   .cards-lists .single-card {
-    max-width: 260px;
+    max-width: 280px;
   }
 }
 .cards-lists .single-card .card-body {
