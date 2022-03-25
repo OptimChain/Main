@@ -2214,6 +2214,11 @@ contact page
     max-width: 270px;
   }
 }
+@media only screen and (max-width: 670px) {
+  .cards-lists .single-card {
+    max-width: 260px;
+  }
+}
 .cards-lists .single-card .card-body {
   text-align: justify;
 }
