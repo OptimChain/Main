@@ -2227,6 +2227,7 @@ contact page
 @media only screen and (max-width: 659px) {
   .cards-lists .single-card {
     max-width: 360px;
+    padding: 0 15px; 
   }
 }
 .cards-lists .single-card .card-body {
