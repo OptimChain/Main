@@ -2186,3 +2186,16 @@ contact page
   width: 300px;
   height: 225px;
 }
+.cards-lists {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cards-lists .single-card {
+  max-width: 390px;
+}
+.cards-lists .single-card .card-body {
+  padding-right: 35px;
+}
+.cards-lists .single-card:last-child .card-body { 
+  padding-right: 0;
+}

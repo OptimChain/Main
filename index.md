@@ -44,14 +44,38 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
     </a>
   </li>
 </ul>
-
-| <img class="lab-img"  src="{{ site.url }}/assets/images/labs/01.png" alt="logo" width="300"/>  | <img class="lab-img" src="{{ site.url }}/assets/images/labs/02.png" alt="logo"/> | <img class="lab-img" src="{{ site.url }}/assets/images/labs/03.png" alt="logo" />|
-| In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability. | QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone! | Statistical time-series forecast + classification done for a cilent with PowerBi front end code + R backend code in harmony with cloud orchestration services. Work was to triangulate manufacturing plans and orders for a major US manufacturer. Overall product allowed for demand shaping across seven cilent manufacturing sites.|
-
-
-
-
-
+<div class="cards-lists">
+  <div class="single-card">
+    <div class="card-thumb">
+      <img class="lab-img" src="{{ site.url }}/assets/images/labs/01.png" alt=""/>
+    </div>
+    <div class="card-body">
+    <p>
+      In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
+    </p>
+    </div>
+  </div>
+  <div class="single-card">
+    <div class="card-thumb">
+      <img class="lab-img" src="{{ site.url }}/assets/images/labs/02.png" alt=""/>
+    </div>
+    <div class="card-body">
+    <p>
+      QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone!
+    </p>
+    </div>
+  </div>
+  <div class="single-card">
+    <div class="card-thumb">
+      <img class="lab-img" src="{{ site.url }}/assets/images/labs/03.png" alt=""/>
+    </div>
+    <div class="card-body">
+    <p>
+      Statistical time-series forecast + classification done for a cilent with PowerBi front end code + R backend code in harmony with cloud orchestration services. Work was to triangulate manufacturing plans and orders for a major US manufacturer. Overall product allowed for demand shaping across seven cilent manufacturing sites.
+    </p>
+    </div>
+  </div>
+</div>
 
 ### Previous Customers
 
