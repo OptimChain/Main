@@ -5,6 +5,15 @@ logos:
   - url: "assets/images/logos/02.png"
   - url: "assets/images/logos/03.png"
   - url: "assets/images/logos/04.png"
+
+external_lists:
+  - title: "Cloud Based Hydroponics Sensoring (Click Here)"
+    url: "https://github.com/OptimChain/Cloud_Hydroponics"
+  - title: "Modular QR based Inventory Control (Click Here)"
+    url: "https://github.com/OptimChain/QR_ERP"
+  - title: "Databricks R and PowerBi Quota Ticket Forecasting (Click Here)"
+    url: "https://github.com/IamJasonBian/Demo_ML"
+
 ---
 
 
@@ -28,21 +37,13 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
 ### Sample Demo Implementations with Code:
 
 <ul class="external-lists">
+{% for list in page.external_lists %}
   <li>
-    <a href="https://github.com/OptimChain/Cloud_Hydroponics">
-     Cloud Based Hydroponics Sensoring (Click Here)
+    <a href="{{ list.url }}">
+      {{ list.title }}
     </a>
   </li>
-  <li>
-    <a href="https://github.com/OptimChain/QR_ERP">
-     Modular QR based Inventory Control (Click Here)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/IamJasonBian/Demo_ML">
-     Databricks R and PowerBi Quota Ticket Forecasting (Click Here)
-    </a>
-  </li>
+{% endfor %}
 </ul>
 <div class="cards-lists">
   <div class="single-card">
