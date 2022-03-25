@@ -2190,6 +2190,7 @@ contact page
 .cards-lists {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
   padding: 10px;
   box-sizing: border-box;
   border: 1px solid #ccc;
@@ -2203,8 +2204,13 @@ contact page
     max-width: 300px;
   }
 }
+@media only screen and (max-width: 1350px) {
+  .cards-lists .single-card {
+    max-width: 260px;
+  }
+}
 .cards-lists .single-card .card-body {
-  padding: 0 13px;
+  text-align: justify;
 }
 .cards-lists .single-card:last-child .card-body { 
   padding-right: 0;
