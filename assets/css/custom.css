@@ -2177,9 +2177,6 @@ contact page
 .gallery-wrapper {
   display: flex;
   flex-wrap: wrap;
-  padding: 10px;
-  box-sizing: border-box;
-  border: 1px solid #ccc;
 }
 .gallery-wrapper img {
   margin-bottom: 0;
@@ -2193,10 +2190,18 @@ contact page
 .cards-lists {
   display: flex;
   flex-wrap: wrap;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
 }
 .cards-lists .single-card {
-  max-width: 360px;
+  max-width: 350px;
   box-sizing: border-box;
+}
+@media only screen and (max-width: 1500px) {
+  .cards-lists .single-card {
+    max-width: 300px;
+  }
 }
 .cards-lists .single-card .card-body {
   padding: 0 13px;
