@@ -2049,6 +2049,7 @@ th a:hover {
   padding: 15px;
   background: #33383f;
   border: 0;
+  margin-bottom: 30px;
 }
 .external-lists li {
   padding: 10px;
@@ -2176,6 +2177,9 @@ contact page
 .gallery-wrapper {
   display: flex;
   flex-wrap: wrap;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
 }
 .gallery-wrapper img {
   margin-bottom: 0;
@@ -2191,10 +2195,11 @@ contact page
   flex-wrap: wrap;
 }
 .cards-lists .single-card {
-  max-width: 390px;
+  max-width: 360px;
+  box-sizing: border-box;
 }
 .cards-lists .single-card .card-body {
-  padding-right: 35px;
+  padding: 0 13px;
 }
 .cards-lists .single-card:last-child .card-body { 
   padding-right: 0;
