@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section id="contact-form" class="block block-form contact-page-wrapper">
+<section id="contact-form" class="block block-form">
     <div class="block-content-2">
     <div class="contact-info">
         <h1 class="post-title underline">Contact </h1>
