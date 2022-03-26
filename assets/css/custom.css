@@ -428,7 +428,7 @@ th {
 
 /* Form fields */
 label {
-  color: #33383f;
+  color: #959ea9;
   display: inline-block;
   line-height: 1.5;
   margin-bottom: 0.25em;
@@ -2154,6 +2154,7 @@ contact page
 } */
 .contact-info h1 {
   border-bottom: 0;
+  color: #fff;
 }
 .contact-info ul {
   margin: 0;
@@ -2163,13 +2164,14 @@ contact page
 .contact-info ul li {
   padding-bottom: 5px;
   letter-spacing: 0.3px;
+  color: #959ea9;
 }
 .contact-info ul li i {
   padding-right: 5px;
   font-size: 15px;
 }
 .contact-info p {
-  color: #2988fb;
+  color: #959ea9;
   font-size: 1.2rem;
   font-style: italic;
   padding-top: 10px;
@@ -2246,4 +2248,8 @@ contact page
 }
 .cards-lists .single-card:last-child .card-body { 
   padding-right: 0;
+}
+
+.contact-page-wrapper {
+  background-color: #33383f;
 }
