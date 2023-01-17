@@ -26,13 +26,15 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
 
 
 ### Custom End to End Tech stack
-* Languages: Python, R, Javascript, SQL
-* Data Engineering: Databricks, Azure Synapse, Azure Eventhub
-* Optimzation: Promodel, Python LP, Excel solver, R scripting
-* Visualization: Flask, Shiny, PowerBi
-* Integration: Selenium, Beautiful Soup, Azure Connectors
-* Storage: Azure, Azure datalake and blob storage, SQL server
-* IoT: Raspberry Pi, Azure Sphere
+
+Programming Languages: Python (Numpy, Pandas, Django, Flask), R (dplyr, tidyverse), SQL, Spark SQL,  C++, Javascript, C
+Data Engineering/Cloud Services: Airflow, Azure, Azure DataLake, Azure DataFactory, Azure Eventhub, Azure Synapse, AWS S3 AWS Sagemaker, AWS EMR, AWS Lambdas, AWS Glue, hdfs, Parquet, Databricks, Databricks Delta Lake, SSMS, Redshift, Azure Devops, Codecommit, Github Lab
+Visualization: PowerBi, ggplot, matplotlib, Tableau, Shiny Server, Tkinter, 
+Statistics/Optimization: ARIMA, Regression/Random Forest, Linear Programming, Markov Chains, Simulation
+Misc Infra: bash, grep, regex, git, CI/CD brazil, Cloudformation, 
+Integration: Selenium, Beautiful Soup
+IoT: Raspberry Pi, Azure Sphere
+
 
 ### Sample Demo Implementations with Code:
 
